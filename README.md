@@ -1,7 +1,7 @@
 # My Python Practice Notebooks
 
 Welcome to my Python practice repository!  
-Here I document my learning journey with Python, starting from the basics and moving toward more advanced topics like Generative AI in the future.  
+Here I document my learning journey with Python, starting from the basics and moving toward more advanced topics.  
 
 ## 📚 Notebooks
 
