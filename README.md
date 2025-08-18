@@ -5,17 +5,10 @@ Here I document my learning journey with Python, starting from the basics and mo
 
 ## 📚 Notebooks
 
-| Area          | Notebook                                        | What you'll find                       |
-|---------------|-------------------------------------------------|---------------------------------------|
-| Python Basics | [01-python-basics.ipynb](notebooks/python_basics/01-python-basics.ipynb) | Step-by-step Python exercises, explanations, and examples I worked on to strengthen my skills |
-| ETL & Data Processing | [02-mini-etl-pipeline.ipynb](notebooks/python_basics/02-mini-etl-pipeline.ipynb) | A simple ETL (Extract, Transform, Load) pipeline using Python and Pandas, including data extraction from CSV, transformations, and saving processed data |
-
-## 🚀 Try it in Colab
-
-You can open these notebooks directly in Google Colab and try the exercises yourself:  
-
-[![Open 01-python-basics in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Git-Hub-Ran/Python/blob/main/notebooks/python_basics/01-python-basics.ipynb)  
-[![Open 02-mini-etl-pipeline in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Git-Hub-Ran/Python/blob/main/notebooks/python_basics/02-mini-etl-pipeline.ipynb)
+| Area | Notebook | What you'll find | Try it in Colab |
+|------|----------|-----------------|----------------|
+| Python Basics | [01-python-basics.ipynb](notebooks/python_basics/01-python-basics.ipynb) | Step-by-step Python exercises, explanations, and examples I worked on to strengthen my skills | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Git-Hub-Ran/Python/blob/main/notebooks/python_basics/01-python-basics.ipynb) |
+| ETL & Data Processing | [02-mini-etl-pipeline.ipynb](notebooks/python_basics/02-mini-etl-pipeline.ipynb) | A simple ETL (Extract, Transform, Load) pipeline using Python and Pandas, including data extraction from CSV, transformations, and saving processed data | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Git-Hub-Ran/Python/blob/main/notebooks/python_basics/02-mini-etl-pipeline.ipynb) |
 
 ---
 
