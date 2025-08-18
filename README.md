@@ -15,7 +15,7 @@ Here I document my learning journey with Python, starting from the basics and mo
 You can open these notebooks directly in Google Colab and try the exercises yourself:  
 
 [![Open 01-python-basics in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Git-Hub-Ran/Python/blob/main/notebooks/python_basics/01-python-basics.ipynb)  
-[![Open 02-mini-etl-pipeline in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Git-Hub-Ran/Python/blob/main/notebooks/02-mini-etl-pipeline.ipynb)
+[![Open 02-mini-etl-pipeline in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Git-Hub-Ran/Python/blob/main/notebooks/02-mini-etl-pipeline.ipynb](https://github.com/Git-Hub-Ran/Python/blob/main/notebooks/python_basics/02-mini-etl-pipeline.ipynb))
 
 ---
 
